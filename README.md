@@ -2,6 +2,7 @@
 '''
 all type of tools weather forecast | encrypter / decrypter ,,| random Password generater and hashes etc
 '''
+- >git clone https://github.com/Hckers-Tech/bash-utilites
 
 >cd bash utilities 
 
@@ -11,4 +12,5 @@ all type of tools weather forecast | encrypter / decrypter ,,| random Password g
 >bash k.sh
 
 ## for whether checking 
-bash m.sh
+
+>bash m.sh
