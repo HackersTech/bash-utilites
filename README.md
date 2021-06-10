@@ -4,13 +4,13 @@
 - >apt-get install gnupg
 
 ## for termux requirements :-
-'''
+```
 pkg install gnupg 
-'''
+```
 
-'''
-all type of tools weather forecast | encrypter / decrypter ,,| random Password generater and hashes etc
-'''
+
+**all type of tools weather forecast | encrypter / decrypter ,,| random Password generater and hashes etc**
+
 - >git clone https://github.com/Hckers-Tech/bash-utilites
 
 >cd bash utilities 
@@ -23,3 +23,6 @@ all type of tools weather forecast | encrypter / decrypter ,,| random Password g
 ## for whether checking 
 
 >bash m.sh
+
+
+### more added soon
